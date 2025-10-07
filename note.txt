@@ -1,3 +1,5 @@
 - Git giúp quản lý phiên bản dễ dàng.
 - Dễ dàng làm việc nhóm trên cùng dự án.
 - Có thể khôi phục lại mã nguồn khi bị lỗi.
+- Học Git giúp hiểu rõ quy trình phát triển phần mềm.
+- GitHub là công cụ tuyệt vời để lưu trữ và chia sẻ dự án.
