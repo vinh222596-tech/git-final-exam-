@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Hello, this is Phạm Quốc Vinh
+=======
+Xin chào, tôi là Phạm Quốc Vinh
+>>>>>>> feature-update
 Tôi tên là Phạm Quốc Vinh.
 Hiện đang là sinh viên chuyên ngành Công nghệ Thông tin.
 Tôi yêu thích học hỏi và khám phá công nghệ mới.
