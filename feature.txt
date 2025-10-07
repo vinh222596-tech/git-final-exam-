@@ -1,0 +1,7 @@
+Tính năng mới: Hệ thống thông báo tự động.
+
+1. Khi người dùng hoàn thành bài tập, hệ thống sẽ gửi thông báo.  
+2. Tự động cập nhật tiến độ học tập mỗi ngày.  
+3. Hiển thị thống kê học tập hàng tuần.  
+4. Có thể tùy chỉnh thời gian và nội dung thông báo.  
+5. Giúp người học duy trì thói quen học tập đều đặn.
