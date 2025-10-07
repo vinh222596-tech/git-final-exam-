@@ -11,3 +11,8 @@
 6. Ngày 6: Tổng kết và review.  
 7. Ngày 7: Viết báo cáo và nộp bài.  
 8. Ghi chú: Luôn kiểm tra log và status sau mỗi bước.
+
+9. Ngày 8: Ôn tập kiến thức Git nâng cao.
+10. Ngày 9: Thực hành Git stash và merge.
+11. Ngày 10: Viết báo cáo tổng kết tiến độ học tập.
+12. Ghi chú: Hoàn thành trước thời hạn.
