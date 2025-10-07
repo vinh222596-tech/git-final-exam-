@@ -1,0 +1,3 @@
+- Git giúp quản lý phiên bản dễ dàng.
+- Dễ dàng làm việc nhóm trên cùng dự án.
+- Có thể khôi phục lại mã nguồn khi bị lỗi.
